@@ -69,7 +69,7 @@
 .cent {
     padding-left: 10px;
     padding-top: 10px;
-    width:60%;
+    width: 60%;
 }
 
 .left {
@@ -114,7 +114,8 @@
     align-items: center;
     text-align: center;
 }
-.b5{
+
+.b5 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -125,11 +126,12 @@
 .btt {
     margin-left: -100px;
 }
+
 .btt2 {
     margin-right: -100px;
 }
 
-.btt3{
+.btt3 {
     margin-bottom: -48px;
 }
 
@@ -138,7 +140,7 @@
 }
 
 
-.dddb2{
+.dddb2 {
     text-align: center;
 
 
@@ -156,7 +158,7 @@
 
 }
 
-.dddb3{
+.dddb3 {
 
 
     font-family: SeoulHangang CBL;
@@ -178,7 +180,7 @@
     margin-top: 30px;
 }
 
-.dddb4{
+.dddb4 {
     /*width: 145px;*/
     /*height: 24px;*/
     /*left: 649px;*/
@@ -201,15 +203,16 @@
     text-align: center;
 }
 
-.bgd{
+.bgd {
     background-color: #EBEBEB;
 }
 
-.fonim{
+.fonim {
     Width: 240px;
     Height: 202px;
 }
-.txt{
+
+.txt {
 
 
     font-family: Montserrat;
@@ -234,11 +237,12 @@
     margin-left: 25px;
     margin-top: 0;
 }
+
 /*.bor{*/
 /*    border: 4px double black;*/
 /*}*/
 
-.txt2{
+.txt2 {
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
@@ -260,7 +264,7 @@
     margin: 15px 0px;
 }
 
-.txt3{
+.txt3 {
 
 
     font-family: Montserrat;
@@ -286,13 +290,13 @@
 }
 
 
-.ccc{
+.ccc {
     margin-left: auto;
     margin-right: auto;
     width: 6em;
 }
 
-.ded{
+.ded {
 
 
     font-family: Montserrat;
@@ -317,7 +321,7 @@
     margin: 15px 0px;
 }
 
-.txt4{
+.txt4 {
 
 
     font-family: Open Sans;
@@ -335,9 +339,10 @@
     padding: 9px 34px;
 
 }
-.cha{
+
+.cha {
     border: 4px dotted #23A6F0; /* Параметры границы */
-     /* Цвет фона */
+    /* Цвет фона */
     padding: 10px; /* Поля вокруг текста */
 
     width: 472px;
@@ -347,16 +352,17 @@
     margin-top: 96px;
 }
 
-.cha1{
+.cha1 {
     display: flex;
 }
 
-.cha2{
+.cha2 {
     display: flex;
     flex-direction: column;
 
 }
-.cha3{
+
+.cha3 {
 
     margin-left: 4px;
     font-family: Consolas;
@@ -371,7 +377,8 @@
 
     color: #000000;
 }
-.cha4{
+
+.cha4 {
     margin-left: 4px;
 
 
@@ -385,18 +392,18 @@
     display: flex;
 
 
-
     color: #000000;
 
 }
 
-.cha5{
+.cha5 {
     display: flex;
     justify-content: flex-end;
     margin-top: 12px;
 
 }
-.cha6{
+
+.cha6 {
     margin-left: 4px;
     font-family: Consolas;
     font-style: normal;
@@ -410,4 +417,142 @@
     justify-content: flex-end;
 
     color: #000000;
+}
+
+.b6 {
+    text-align: center;
+    margin-top: 50px;
+
+
+    font-family: SeoulHangang CBL;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 24px;
+    /* identical to box height, or 67% */
+
+    letter-spacing: 0.2px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.ff{
+    margin-top: 77px;
+    height: 232px;
+    background-color: #F6F6F6;
+    background-color: #791d1d;
+    background-color: #e7e7e7;
+
+
+}
+.ff1{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+.emt{
+    width: 1px;
+    height: 1px;
+}
+.ff2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-top: 69px;
+
+}
+
+.ff3{
+    display: flex;
+
+
+    justify-content: flex-end;
+
+    margin-top: 69px;
+}
+
+.ff4{
+    margin-top: 69px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.ggg{
+    border: 4px double black;
+}
+
+.adsf{
+    display: flex;
+    flex-direction: column;
+}
+
+.fadsf{
+    margin-left: 10px;
+}
+
+.asdf{
+    margin-right: 43px;
+}
+
+.adsfa{
+
+
+
+
+    font-family: SeoulHangang CBL;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height */
+
+
+    text-align: center;
+    margin-top: 45px;
+
+    color: #8B949E;
+}
+
+.hhh1{
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+    margin-top: 28px;
+    margin-right: 38px;
+
+}
+
+.hhh2{
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.hhh0{
+    margin-top: 19px;
+    margin-right: 20px;
 }
